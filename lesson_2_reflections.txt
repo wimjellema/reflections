@@ -9,3 +9,12 @@ Answer: You can use git diff to check differences between your working directory
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 Answer: For experimental reasons or if you work on a project with multiple developers, it might be handy to have a branch for each developer or project. Later you can merge the changes.
+
+How do the diagrams help you visualize the branch structure?
+Answer: You can see all the branches and the head
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Answer: It is a combination of all the commits of the two branches.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Answer: I keeps you in control.
